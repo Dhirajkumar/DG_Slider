@@ -2,7 +2,7 @@ DG_Slider
 =========
 
  * jQuery DG_Slider v1.0
- 	 http://dhirajkumarsingh.wordpress.com
+ 	 http://dhirajkumarsingh.wordpress.com/ultimate-jquery-content-slider-plugin-dg_slider/
  
  * Copyright 2012, Dhiraj kumar
  	 http://www.weblinkindia.net
